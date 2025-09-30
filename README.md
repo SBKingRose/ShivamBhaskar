@@ -144,7 +144,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SBKingRose/SBKingRose/output/pacman-contributions.svg" alt="Snake animation" />
+# <img src="https://github.com/SBKingRose/ShivamBhaskar/blob/main/output/pacman-contributions.svg" alt="Snake animation" />
+
+<img src="https://pacman.abozanona.me?username=SBKingRose" />
 
 ###
 
