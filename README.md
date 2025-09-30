@@ -144,8 +144,7 @@
 
 ###
 
-# <img src="https://raw.githubusercontent.com/SBKingRose/SBKingRose/output/ocean.gif" alt="Snake animation" />
-<script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph@2.0.0/dist/index.min.js"></script>
+<img src="https://raw.githubusercontent.com/SBKingRose/SBKingRose/output/pacman-contributions.svg" alt="Snake animation" />
 
 ###
 
