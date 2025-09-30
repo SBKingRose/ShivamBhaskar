@@ -144,7 +144,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SBKingRose/SBKingRose/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SBKingRose/SBKingRose/output/ocean.gif" alt="Snake animation" />
 
 ###
 
