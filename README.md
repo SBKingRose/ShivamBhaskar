@@ -138,7 +138,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SBKingRose/SBKingRose/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SBKingRose/SBKingRose/output/pacman-contribution-graph.svg">
+  <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SBKingRose/SBKingRose/output/pacman-contribution-graph.svg"> -->
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SBKingRose/SBKingRose/output/pacman-contribution-graph.svg">
 </picture>
 
@@ -150,10 +150,10 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://open.spotify.com/user/31vbkzfykxvqt7ksrqhy3j7tj6uu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vbkzfykxvqt7ksrqhy3j7tj6uu&count=5&unique=false" alt="Spotify recently played"  />
   </a>
-</div>
+</div> -->
 
 ###
